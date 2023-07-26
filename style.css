@@ -1,0 +1,11 @@
+.container{
+width: 90%;
+height: 600px;
+padding: 20px;
+
+}
+
+.cols{
+border: 1px solid;
+padding: 30px;;
+}
